@@ -1,4 +1,9 @@
 # argp-standalone
+
+Forked from tom42/argp-standalone, all credits for him.
+We want only to create a conan package to use it in our projects.
+We added 1.0.1 tag to include latest two commits from tom42 before using it.
+
 argp-standalone is another standalone version of the argp argument parsing functions from glibc by Thomas Mathys.
 It is distributed under the terms of the GNU LGPL v2.1.
 It is currently available in source form only from https://github.com/tom42/argp-standalone.
